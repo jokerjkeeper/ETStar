@@ -14,8 +14,8 @@
   本項目目的為使用fivestar框架進行MOBA遊戲項目開法
 
 # 環境搭建
-  CentOS 7.0
-  Unity2018以上
+  * CentOS 7.0
+  * Unity2018以上
   
 # 已包含功能
   * ILRuntime熱更模塊
